@@ -12,7 +12,7 @@ As the course is completely fresh, the topics to be covered, assignments, struct
 - Topic 3. Attention Mechanism and Transformers.
 - Topic 4. Large Language Models and their Applications.
 
-For each topic, there is a home assignment - usually a jupyter notebook with additional util scripts and detailed description of the task provided. The student is aimed to complete the coding tasks and express an opinion on certain problems if prompted to. The maximum number of points per assignment is 15p. 
+For each of the first 3 topics there is a home assignment - usually a jupyter notebook with additional util scripts and detailed description of the task provided. The student aims to complete the coding tasks and express an opinion on certain problems if prompted to. The maximum number of points per assignment is 20 pts. Late submission policy is 0.75 of the max pts., i.e. 15 pts. 
 
 ## Evaluation
 - 3 H/As make it a total 60 pts of the total mark.
@@ -21,19 +21,19 @@ For each topic, there is a home assignment - usually a jupyter notebook with add
   
 | Activity              | Max. Points  |
 | --------------------- | ------------ |
-| 3 Home Assignments    | 60           |
+| 3 Home Assignments    | 3 * 20       |
 | Research Presentation | 10           |
 | Final Group Project   | 30           |
 | *Total*               | *100*        |
 
 ## Assignment 1 (20 pts)
-In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201).
+In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. [The assignment link](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201).
 
 ## Assignment 2 (20 pts)
-In this assignment, you will practice data preprocesing, RNN training from scratch, forward- and backprop through time, and you will also generate some slick dinosaur names. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%202).
+In this assignment, you will practice data preprocesing, RNN training from scratch, forward- and backprop through time, and you will also generate some slick dinosaur names. [The assignment link](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%202).
 
 ## Assignment 3 (20 pts)
-TBD.
+Implementation of Transformer architecture, namely encoder, decoder, attention mechanism, binding it all together. [The assignment link](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%203).
 
 ## Research Presentation and Topics (10 pts)
 You are to select a paper of interest in NLP and present a short, 10-min breakdown of it during the class. This may either be a live presentation of a recording.
